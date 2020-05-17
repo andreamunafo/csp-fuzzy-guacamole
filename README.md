@@ -2,6 +2,11 @@
 
 This repository uses interval analysis and constraint programming to track a 3D target using a linear array.
 
+Collaborative robotic networks composed of Autonomous Underwater Vehicles (AUVs) may represent a complement and a valid alternative to traditional ship-based surveys, which are typically manpower intensive and expensive. In contrast with the use of standard assets, these small, low-power and mobile devices have limited processing and wireless communication capabilities.
+
+This repository combines a range-dependent acoustic model with a three dimensional measurement model for a linear array within an interval analysis framework.
+The resulting algorithm is able to provide the vehicles with an estimation of the target depth together with the more usual information based on a planar assumption (i.e. target latitude and longitude).
+
 ## Introduction
 
 <p align="center">
