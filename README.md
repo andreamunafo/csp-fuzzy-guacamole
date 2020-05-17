@@ -11,7 +11,7 @@ This repository uses interval analysis and constraint programming to track a 3D 
 
 ## Dependencies
 
-This repository uses the [pyibex](http://benensta.github.io/pyIbex/), a set of python modules for solving nonlinear problems using Interval Arithmetic tools.
+This repository uses [pyibex](http://benensta.github.io/pyIbex/), a set of python modules for solving nonlinear problems using Interval Arithmetic tools.
 
 The reccomended way of installing dependencies is through Anaconda.
 
